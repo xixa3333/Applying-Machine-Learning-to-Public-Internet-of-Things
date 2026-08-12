@@ -11,8 +11,7 @@
 ├─ notebooks/
 │  └─ emis_disaster_classification.ipynb
 ├─ docs/
-│  ├─ Project_民生公共物聯網_空污資料分析.pdf
-│  ├─ project_20240805-0150.pdf
+│  ├─ final-project-report.pdf
 │  └─ 應用Machine Learning於公共物聯網.docx
 ├─ .gitignore
 ├─ README.md
@@ -67,6 +66,5 @@ Notebook 會優先讀取本機 `data/EMIS_2006-2013.xlsx`；若在 Google Colab 
 
 ## 報告
 
-- [專題報告 PDF](docs/Project_民生公共物聯網_空污資料分析.pdf)
+- [專題報告 PDF](docs/final-project-report.pdf)
 - [專題報告 Word](docs/應用Machine%20Learning於公共物聯網.docx)
-- [補充 PDF](docs/project_20240805-0150.pdf)
