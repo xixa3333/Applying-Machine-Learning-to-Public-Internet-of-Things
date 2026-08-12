@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated artifacts
+models/
+outputs/
+*.joblib
+
+# Large local media
+*.mp4
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
